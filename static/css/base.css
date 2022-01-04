@@ -12,7 +12,7 @@ header {
 }
 
 header h1 a {
-    color: red;
+    color: #654321;
     text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ header h1 a {
 
 .post-entry h2 a,
 .post-entry h2 a:visited {
-    color: blue;
+    color: #654321;
     text-decoration: none;
 }
 
@@ -41,5 +41,9 @@ header h1 a {
 }
 
 .post-entry h2 a:hover {
-    color: red;
+    color: #a0aab5;
+}
+
+body {
+    background-color: #eadacb;
 }
